@@ -1,0 +1,27 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Source and generated datasets (download/regenerate locally)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Row-level generated predictions and execution artefacts
+results/predictions/*
+!results/predictions/.gitkeep
+results/logs/
+
+# Temporary ablation checkpoints
+results/tables/*checkpoint*.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

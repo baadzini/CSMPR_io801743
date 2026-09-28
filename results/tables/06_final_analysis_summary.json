@@ -1,0 +1,8 @@
+{
+  "n_oof": 4742,
+  "best_regression_model": "XGBoost",
+  "best_regression_MAE": 17.18906790480446,
+  "direct_xgb_macro_F1": 0.5105841597351954,
+  "conformal_coverage": 0.897722479966259,
+  "conformal_mean_width": 64.23963165283203
+}

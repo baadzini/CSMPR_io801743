@@ -1,0 +1,244 @@
+threshold,model,true_class,predicted_class,n
+5.0,Persistence,Regression,Regression,0
+5.0,Persistence,Regression,Stable,1918
+5.0,Persistence,Regression,Improvement,0
+5.0,Persistence,Stable,Regression,0
+5.0,Persistence,Stable,Stable,1033
+5.0,Persistence,Stable,Improvement,0
+5.0,Persistence,Improvement,Regression,0
+5.0,Persistence,Improvement,Stable,1791
+5.0,Persistence,Improvement,Improvement,0
+5.0,Role-age-league mean,Regression,Regression,1165
+5.0,Role-age-league mean,Regression,Stable,237
+5.0,Role-age-league mean,Regression,Improvement,516
+5.0,Role-age-league mean,Stable,Regression,536
+5.0,Role-age-league mean,Stable,Stable,78
+5.0,Role-age-league mean,Stable,Improvement,419
+5.0,Role-age-league mean,Improvement,Regression,519
+5.0,Role-age-league mean,Improvement,Stable,190
+5.0,Role-age-league mean,Improvement,Improvement,1082
+5.0,Linear regression,Regression,Regression,1182
+5.0,Linear regression,Regression,Stable,484
+5.0,Linear regression,Regression,Improvement,252
+5.0,Linear regression,Stable,Regression,473
+5.0,Linear regression,Stable,Stable,235
+5.0,Linear regression,Stable,Improvement,325
+5.0,Linear regression,Improvement,Regression,450
+5.0,Linear regression,Improvement,Stable,497
+5.0,Linear regression,Improvement,Improvement,844
+5.0,Ridge,Regression,Regression,1176
+5.0,Ridge,Regression,Stable,483
+5.0,Ridge,Regression,Improvement,259
+5.0,Ridge,Stable,Regression,469
+5.0,Ridge,Stable,Stable,229
+5.0,Ridge,Stable,Improvement,335
+5.0,Ridge,Improvement,Regression,446
+5.0,Ridge,Improvement,Stable,490
+5.0,Ridge,Improvement,Improvement,855
+5.0,ElasticNet,Regression,Regression,1160
+5.0,ElasticNet,Regression,Stable,482
+5.0,ElasticNet,Regression,Improvement,276
+5.0,ElasticNet,Stable,Regression,461
+5.0,ElasticNet,Stable,Stable,217
+5.0,ElasticNet,Stable,Improvement,355
+5.0,ElasticNet,Improvement,Regression,429
+5.0,ElasticNet,Improvement,Stable,475
+5.0,ElasticNet,Improvement,Improvement,887
+5.0,Random Forest,Regression,Regression,1159
+5.0,Random Forest,Regression,Stable,467
+5.0,Random Forest,Regression,Improvement,292
+5.0,Random Forest,Stable,Regression,451
+5.0,Random Forest,Stable,Stable,251
+5.0,Random Forest,Stable,Improvement,331
+5.0,Random Forest,Improvement,Regression,435
+5.0,Random Forest,Improvement,Stable,477
+5.0,Random Forest,Improvement,Improvement,879
+5.0,XGBoost,Regression,Regression,1167
+5.0,XGBoost,Regression,Stable,476
+5.0,XGBoost,Regression,Improvement,275
+5.0,XGBoost,Stable,Regression,450
+5.0,XGBoost,Stable,Stable,282
+5.0,XGBoost,Stable,Improvement,301
+5.0,XGBoost,Improvement,Regression,428
+5.0,XGBoost,Improvement,Stable,474
+5.0,XGBoost,Improvement,Improvement,889
+5.0,LightGBM,Regression,Regression,1192
+5.0,LightGBM,Regression,Stable,454
+5.0,LightGBM,Regression,Improvement,272
+5.0,LightGBM,Stable,Regression,460
+5.0,LightGBM,Stable,Stable,254
+5.0,LightGBM,Stable,Improvement,319
+5.0,LightGBM,Improvement,Regression,437
+5.0,LightGBM,Improvement,Stable,479
+5.0,LightGBM,Improvement,Improvement,875
+5.0,Mixed-effects (BLUP),Regression,Regression,1176
+5.0,Mixed-effects (BLUP),Regression,Stable,423
+5.0,Mixed-effects (BLUP),Regression,Improvement,319
+5.0,Mixed-effects (BLUP),Stable,Regression,442
+5.0,Mixed-effects (BLUP),Stable,Stable,206
+5.0,Mixed-effects (BLUP),Stable,Improvement,385
+5.0,Mixed-effects (BLUP),Improvement,Regression,477
+5.0,Mixed-effects (BLUP),Improvement,Stable,418
+5.0,Mixed-effects (BLUP),Improvement,Improvement,896
+10.0,Persistence,Regression,Regression,0
+10.0,Persistence,Regression,Stable,1522
+10.0,Persistence,Regression,Improvement,0
+10.0,Persistence,Stable,Regression,0
+10.0,Persistence,Stable,Stable,1783
+10.0,Persistence,Stable,Improvement,0
+10.0,Persistence,Improvement,Regression,0
+10.0,Persistence,Improvement,Stable,1437
+10.0,Persistence,Improvement,Improvement,0
+10.0,Role-age-league mean,Regression,Regression,852
+10.0,Role-age-league mean,Regression,Stable,381
+10.0,Role-age-league mean,Regression,Improvement,289
+10.0,Role-age-league mean,Stable,Regression,847
+10.0,Role-age-league mean,Stable,Stable,283
+10.0,Role-age-league mean,Stable,Improvement,653
+10.0,Role-age-league mean,Improvement,Regression,272
+10.0,Role-age-league mean,Improvement,Stable,322
+10.0,Role-age-league mean,Improvement,Improvement,843
+10.0,Linear regression,Regression,Regression,755
+10.0,Linear regression,Regression,Stable,704
+10.0,Linear regression,Regression,Improvement,63
+10.0,Linear regression,Stable,Regression,568
+10.0,Linear regression,Stable,Stable,903
+10.0,Linear regression,Stable,Improvement,312
+10.0,Linear regression,Improvement,Regression,131
+10.0,Linear regression,Improvement,Stable,822
+10.0,Linear regression,Improvement,Improvement,484
+10.0,Ridge,Regression,Regression,737
+10.0,Ridge,Regression,Stable,714
+10.0,Ridge,Regression,Improvement,71
+10.0,Ridge,Stable,Regression,556
+10.0,Ridge,Stable,Stable,903
+10.0,Ridge,Stable,Improvement,324
+10.0,Ridge,Improvement,Regression,128
+10.0,Ridge,Improvement,Stable,815
+10.0,Ridge,Improvement,Improvement,494
+10.0,ElasticNet,Regression,Regression,723
+10.0,ElasticNet,Regression,Stable,720
+10.0,ElasticNet,Regression,Improvement,79
+10.0,ElasticNet,Stable,Regression,526
+10.0,ElasticNet,Stable,Stable,891
+10.0,ElasticNet,Stable,Improvement,366
+10.0,ElasticNet,Improvement,Regression,126
+10.0,ElasticNet,Improvement,Stable,776
+10.0,ElasticNet,Improvement,Improvement,535
+10.0,Random Forest,Regression,Regression,653
+10.0,Random Forest,Regression,Stable,782
+10.0,Random Forest,Regression,Improvement,87
+10.0,Random Forest,Stable,Regression,417
+10.0,Random Forest,Stable,Stable,1032
+10.0,Random Forest,Stable,Improvement,334
+10.0,Random Forest,Improvement,Regression,113
+10.0,Random Forest,Improvement,Stable,796
+10.0,Random Forest,Improvement,Improvement,528
+10.0,XGBoost,Regression,Regression,696
+10.0,XGBoost,Regression,Stable,734
+10.0,XGBoost,Regression,Improvement,92
+10.0,XGBoost,Stable,Regression,475
+10.0,XGBoost,Stable,Stable,986
+10.0,XGBoost,Stable,Improvement,322
+10.0,XGBoost,Improvement,Regression,130
+10.0,XGBoost,Improvement,Stable,775
+10.0,XGBoost,Improvement,Improvement,532
+10.0,LightGBM,Regression,Regression,698
+10.0,LightGBM,Regression,Stable,739
+10.0,LightGBM,Regression,Improvement,85
+10.0,LightGBM,Stable,Regression,467
+10.0,LightGBM,Stable,Stable,979
+10.0,LightGBM,Stable,Improvement,337
+10.0,LightGBM,Improvement,Regression,129
+10.0,LightGBM,Improvement,Stable,775
+10.0,LightGBM,Improvement,Improvement,533
+10.0,Mixed-effects (BLUP),Regression,Regression,741
+10.0,Mixed-effects (BLUP),Regression,Stable,681
+10.0,Mixed-effects (BLUP),Regression,Improvement,100
+10.0,Mixed-effects (BLUP),Stable,Regression,527
+10.0,Mixed-effects (BLUP),Stable,Stable,831
+10.0,Mixed-effects (BLUP),Stable,Improvement,425
+10.0,Mixed-effects (BLUP),Improvement,Regression,159
+10.0,Mixed-effects (BLUP),Improvement,Stable,721
+10.0,Mixed-effects (BLUP),Improvement,Improvement,557
+15.0,Persistence,Regression,Regression,0
+15.0,Persistence,Regression,Stable,1196
+15.0,Persistence,Regression,Improvement,0
+15.0,Persistence,Stable,Regression,0
+15.0,Persistence,Stable,Stable,2414
+15.0,Persistence,Stable,Improvement,0
+15.0,Persistence,Improvement,Regression,0
+15.0,Persistence,Improvement,Stable,1132
+15.0,Persistence,Improvement,Improvement,0
+15.0,Role-age-league mean,Regression,Regression,609
+15.0,Role-age-league mean,Regression,Stable,461
+15.0,Role-age-league mean,Regression,Improvement,126
+15.0,Role-age-league mean,Stable,Regression,1014
+15.0,Role-age-league mean,Stable,Stable,623
+15.0,Role-age-league mean,Stable,Improvement,777
+15.0,Role-age-league mean,Improvement,Regression,95
+15.0,Role-age-league mean,Improvement,Stable,408
+15.0,Role-age-league mean,Improvement,Improvement,629
+15.0,Linear regression,Regression,Regression,414
+15.0,Linear regression,Regression,Stable,771
+15.0,Linear regression,Regression,Improvement,11
+15.0,Linear regression,Stable,Regression,422
+15.0,Linear regression,Stable,Stable,1804
+15.0,Linear regression,Stable,Improvement,188
+15.0,Linear regression,Improvement,Regression,24
+15.0,Linear regression,Improvement,Stable,871
+15.0,Linear regression,Improvement,Improvement,237
+15.0,Ridge,Regression,Regression,409
+15.0,Ridge,Regression,Stable,776
+15.0,Ridge,Regression,Improvement,11
+15.0,Ridge,Stable,Regression,410
+15.0,Ridge,Stable,Stable,1805
+15.0,Ridge,Stable,Improvement,199
+15.0,Ridge,Improvement,Regression,24
+15.0,Ridge,Improvement,Stable,863
+15.0,Ridge,Improvement,Improvement,245
+15.0,ElasticNet,Regression,Regression,389
+15.0,ElasticNet,Regression,Stable,796
+15.0,ElasticNet,Regression,Improvement,11
+15.0,ElasticNet,Stable,Regression,367
+15.0,ElasticNet,Stable,Stable,1814
+15.0,ElasticNet,Stable,Improvement,233
+15.0,ElasticNet,Improvement,Regression,19
+15.0,ElasticNet,Improvement,Stable,844
+15.0,ElasticNet,Improvement,Improvement,269
+15.0,Random Forest,Regression,Regression,324
+15.0,Random Forest,Regression,Stable,854
+15.0,Random Forest,Regression,Improvement,18
+15.0,Random Forest,Stable,Regression,255
+15.0,Random Forest,Stable,Stable,1971
+15.0,Random Forest,Stable,Improvement,188
+15.0,Random Forest,Improvement,Regression,15
+15.0,Random Forest,Improvement,Stable,892
+15.0,Random Forest,Improvement,Improvement,225
+15.0,XGBoost,Regression,Regression,363
+15.0,XGBoost,Regression,Stable,815
+15.0,XGBoost,Regression,Improvement,18
+15.0,XGBoost,Stable,Regression,301
+15.0,XGBoost,Stable,Stable,1901
+15.0,XGBoost,Stable,Improvement,212
+15.0,XGBoost,Improvement,Regression,22
+15.0,XGBoost,Improvement,Stable,824
+15.0,XGBoost,Improvement,Improvement,286
+15.0,LightGBM,Regression,Regression,365
+15.0,LightGBM,Regression,Stable,812
+15.0,LightGBM,Regression,Improvement,19
+15.0,LightGBM,Stable,Regression,302
+15.0,LightGBM,Stable,Stable,1899
+15.0,LightGBM,Stable,Improvement,213
+15.0,LightGBM,Improvement,Regression,19
+15.0,LightGBM,Improvement,Stable,841
+15.0,LightGBM,Improvement,Improvement,272
+15.0,Mixed-effects (BLUP),Regression,Regression,358
+15.0,Mixed-effects (BLUP),Regression,Stable,822
+15.0,Mixed-effects (BLUP),Regression,Improvement,16
+15.0,Mixed-effects (BLUP),Stable,Regression,346
+15.0,Mixed-effects (BLUP),Stable,Stable,1794
+15.0,Mixed-effects (BLUP),Stable,Improvement,274
+15.0,Mixed-effects (BLUP),Improvement,Regression,33
+15.0,Mixed-effects (BLUP),Improvement,Stable,813
+15.0,Mixed-effects (BLUP),Improvement,Improvement,286

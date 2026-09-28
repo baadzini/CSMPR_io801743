@@ -1,0 +1,46 @@
+feature,feature_group,definition
+perf_rank_t,current_performance,Current season role-specific percentile rank (0–100).
+perf_z_t,current_performance,Current season role-specific composite z-score.
+perf_z_t_minus1,trajectory_history,Role-specific composite z-score from the exact previous season.
+trend_1s,trajectory_history,Change in composite z-score from the exact previous season to season t.
+trend_2s,trajectory_history,Average annualised change in composite z-score across a two-season span.
+trend_3s,trajectory_history,Average annualised change in composite z-score across a three-season span.
+n_hist_seasons,trajectory_history,Number of earlier player-seasons observed before season t.
+age_,age_exposure,Player age in season t.
+age_sq,age_exposure,Squared age term for nonlinear career-stage effects.
+minutes_t,age_exposure,Minutes played in season t.
+starts_t,age_exposure,Starts in season t.
+minutes_t_minus1,age_exposure,Minutes played in the exact previous season.
+minutes_volatility_3s,age_exposure,"Variation in minutes across the available season-t/t-1/t-2 window, requiring at least two observations."
+is_DF,role,Defender role indicator.
+is_MF,role,Midfielder role indicator.
+is_FW,role,Forward role indicator.
+league_strength_t,context_availability,Mean club points-per-match proxy within the player’s league and season.
+club_strength_t,context_availability,Minutes-weighted club points-per-match proxy in season t.
+club_strength_change,context_availability,Change in club-strength proxy relative to the exact previous season.
+team_attack_strength_t,context_availability,Club goals-for-per-90 proxy in season t.
+team_defense_strength_t,context_availability,Club goals-against-per-90 proxy in season t.
+missed_matches_t,context_availability,Team-availability match-count proxy minus player appearances in season t.
+missed_matches_t_minus1,context_availability,Exact previous-season value of the missed-matches availability proxy.
+transfer_indicator,context_availability,Indicator that primary club changed from the exact previous season.
+league_change_indicator,context_availability,Indicator that primary league changed from the exact previous season.
+goals_per90,role_conditional_output,Goals per 90 in season t.
+xG_per90,role_conditional_output,Expected goals per 90 in season t.
+assists_per90,role_conditional_output,Assists per 90 in season t.
+xA_per90,role_conditional_output,Expected assists per 90 in season t.
+goals_per90_x_FW,role_conditional_output,Goals-per-90 × forward indicator.
+goals_per90_x_MF,role_conditional_output,Goals-per-90 × midfielder indicator.
+goals_per90_x_DF,role_conditional_output,Goals-per-90 × defender indicator.
+xG_per90_x_FW,role_conditional_output,xG-per-90 × forward indicator.
+xG_per90_x_MF,role_conditional_output,xG-per-90 × midfielder indicator.
+xG_per90_x_DF,role_conditional_output,xG-per-90 × defender indicator.
+assists_per90_x_FW,role_conditional_output,Assists-per-90 × forward indicator.
+assists_per90_x_MF,role_conditional_output,Assists-per-90 × midfielder indicator.
+assists_per90_x_DF,role_conditional_output,Assists-per-90 × defender indicator.
+xA_per90_x_FW,role_conditional_output,xA-per-90 × forward indicator.
+xA_per90_x_MF,role_conditional_output,xA-per-90 × midfielder indicator.
+xA_per90_x_DF,role_conditional_output,xA-per-90 × defender indicator.
+progression_per90,role_conditional_output,Progressive carries plus progressive passes per 90.
+creation_per90,role_conditional_output,Creation component carried from the role-specific target construction.
+possession_per90,role_conditional_output,Possession component carried from the role-specific target construction.
+defense_per90,role_conditional_output,Defensive component carried from the role-specific target construction.

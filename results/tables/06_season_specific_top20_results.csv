@@ -1,0 +1,73 @@
+fold,target_season,model,task,overlap
+1,2021/22,Persistence,next_season_level,0.4
+1,2021/22,Persistence,largest_improvement,0.0
+1,2021/22,Role-age-league mean,next_season_level,0.05
+1,2021/22,Role-age-league mean,largest_improvement,0.15
+1,2021/22,Linear regression,next_season_level,0.25
+1,2021/22,Linear regression,largest_improvement,0.1
+1,2021/22,Ridge,next_season_level,0.3
+1,2021/22,Ridge,largest_improvement,0.1
+1,2021/22,ElasticNet,next_season_level,0.35
+1,2021/22,ElasticNet,largest_improvement,0.1
+1,2021/22,Random Forest,next_season_level,0.4
+1,2021/22,Random Forest,largest_improvement,0.05
+1,2021/22,XGBoost,next_season_level,0.4
+1,2021/22,XGBoost,largest_improvement,0.15
+1,2021/22,LightGBM,next_season_level,0.35
+1,2021/22,LightGBM,largest_improvement,0.1
+1,2021/22,Mixed-effects (BLUP),next_season_level,0.45
+1,2021/22,Mixed-effects (BLUP),largest_improvement,0.1
+2,2022/23,Persistence,next_season_level,0.25
+2,2022/23,Persistence,largest_improvement,0.0
+2,2022/23,Role-age-league mean,next_season_level,0.0
+2,2022/23,Role-age-league mean,largest_improvement,0.1
+2,2022/23,Linear regression,next_season_level,0.25
+2,2022/23,Linear regression,largest_improvement,0.1
+2,2022/23,Ridge,next_season_level,0.25
+2,2022/23,Ridge,largest_improvement,0.15
+2,2022/23,ElasticNet,next_season_level,0.25
+2,2022/23,ElasticNet,largest_improvement,0.1
+2,2022/23,Random Forest,next_season_level,0.35
+2,2022/23,Random Forest,largest_improvement,0.15
+2,2022/23,XGBoost,next_season_level,0.25
+2,2022/23,XGBoost,largest_improvement,0.2
+2,2022/23,LightGBM,next_season_level,0.2
+2,2022/23,LightGBM,largest_improvement,0.1
+2,2022/23,Mixed-effects (BLUP),next_season_level,0.25
+2,2022/23,Mixed-effects (BLUP),largest_improvement,0.15
+3,2023/24,Persistence,next_season_level,0.2
+3,2023/24,Persistence,largest_improvement,0.0
+3,2023/24,Role-age-league mean,next_season_level,0.05
+3,2023/24,Role-age-league mean,largest_improvement,0.25
+3,2023/24,Linear regression,next_season_level,0.1
+3,2023/24,Linear regression,largest_improvement,0.05
+3,2023/24,Ridge,next_season_level,0.1
+3,2023/24,Ridge,largest_improvement,0.05
+3,2023/24,ElasticNet,next_season_level,0.1
+3,2023/24,ElasticNet,largest_improvement,0.05
+3,2023/24,Random Forest,next_season_level,0.15
+3,2023/24,Random Forest,largest_improvement,0.05
+3,2023/24,XGBoost,next_season_level,0.15
+3,2023/24,XGBoost,largest_improvement,0.1
+3,2023/24,LightGBM,next_season_level,0.15
+3,2023/24,LightGBM,largest_improvement,0.05
+3,2023/24,Mixed-effects (BLUP),next_season_level,0.25
+3,2023/24,Mixed-effects (BLUP),largest_improvement,0.05
+4,2024/25,Persistence,next_season_level,0.4
+4,2024/25,Persistence,largest_improvement,0.0
+4,2024/25,Role-age-league mean,next_season_level,0.0
+4,2024/25,Role-age-league mean,largest_improvement,0.1
+4,2024/25,Linear regression,next_season_level,0.35
+4,2024/25,Linear regression,largest_improvement,0.05
+4,2024/25,Ridge,next_season_level,0.35
+4,2024/25,Ridge,largest_improvement,0.05
+4,2024/25,ElasticNet,next_season_level,0.35
+4,2024/25,ElasticNet,largest_improvement,0.05
+4,2024/25,Random Forest,next_season_level,0.5
+4,2024/25,Random Forest,largest_improvement,0.15
+4,2024/25,XGBoost,next_season_level,0.3
+4,2024/25,XGBoost,largest_improvement,0.2
+4,2024/25,LightGBM,next_season_level,0.3
+4,2024/25,LightGBM,largest_improvement,0.25
+4,2024/25,Mixed-effects (BLUP),next_season_level,0.35
+4,2024/25,Mixed-effects (BLUP),largest_improvement,0.15

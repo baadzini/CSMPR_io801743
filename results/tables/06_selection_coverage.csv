@@ -1,0 +1,5 @@
+selection_outcome,n,share
+Included in evaluation,4742,0.6394282632146709
+No next-season observation,1534,0.20685005393743258
+Next season observed but target-ineligible,714,0.09627831715210355
+Next season eligible but role changed,426,0.05744336569579288

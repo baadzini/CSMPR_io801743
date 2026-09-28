@@ -1,0 +1,9 @@
+breakdown,category,method,n,coverage,mean_width
+role,DF,Split-conformal XGBoost 90%,2121,0.8741159830268741,65.36052703857422
+role,FW,Split-conformal XGBoost 90%,1067,0.8865979381443299,63.631752014160156
+role,MF,Split-conformal XGBoost 90%,1554,0.9375804375804376,63.12716293334961
+minutes_band,High (>=median),Split-conformal XGBoost 90%,2331,0.9184899184899185,63.715091705322266
+minutes_band,Low (<median),Split-conformal XGBoost 90%,2411,0.8776441310659477,64.74677276611328
+history_band,No history,Split-conformal XGBoost 90%,579,0.8618307426597582,66.11348724365234
+history_band,One prior season,Split-conformal XGBoost 90%,675,0.914074074074074,64.98464965820312
+history_band,Two or more prior seasons,Split-conformal XGBoost 90%,3488,0.9005160550458715,63.78440475463867

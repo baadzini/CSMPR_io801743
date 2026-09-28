@@ -1,0 +1,32 @@
+{
+  "analysis_version": "1.0.0",
+  "generated_utc": "2026-08-30T21:03:30.861861+00:00",
+  "python_version": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+  "data_source": {
+    "title": "Top 5 League Football Player Stats (2017-2025)",
+    "publisher": "Emre Y\u0131lmaz (Kaggle)",
+    "url": "https://www.kaggle.com/datasets/emrey3lmaz/top-5-league-football-player-stats-2017-2025",
+    "local_input": "data/raw/Dataset_Original.csv",
+    "raw_input_sha256": "298ee166002a5fc8759000d8c739cd046c85adbea51f2a17716cbdb19725db45",
+    "included_in_git": false
+  },
+  "notebook_order": [
+    "01_data_audit_and_player_season_panel.ipynb",
+    "02_role_specific_performance_target.ipynb",
+    "03_longitudinal_feature_engineering.ipynb",
+    "04_chronological_model_evaluation.ipynb",
+    "05_feature_group_ablation.ipynb",
+    "06_error_direction_practical_uncertainty.ipynb"
+  ],
+  "final_analysis_summary": {
+    "n_oof": 4742,
+    "best_regression_model": "XGBoost",
+    "best_regression_MAE": 17.18906790480446,
+    "direct_xgb_macro_F1": 0.5105841597351954,
+    "conformal_coverage": 0.897722479966259,
+    "conformal_mean_width": 64.23963165283203
+  },
+  "repository_manifest_entries": 78,
+  "archive_manifest_entries": 87
+}

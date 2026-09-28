@@ -1,0 +1,10 @@
+metric,value
+raw_rows,22929
+raw_variables,178
+fanout_rows_identified,512
+player_season_team_rows_after_coalescing,22418
+final_unique_player_seasons,21371
+unique_players,7185
+multi_club_player_seasons,1044
+cross_league_multi_club_player_seasons,461
+residual_duplicate_player_season_team_keys,0

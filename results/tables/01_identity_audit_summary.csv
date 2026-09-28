@@ -1,0 +1,8 @@
+metric,value
+scraper_fanout_duplicate_rows_fixed,512
+distinct_names_with_multiple_birth_years (namesakes),48
+player_ids_with_inconsistent_nation,1
+rows_missing_born_,3
+rows_missing_nation_,0
+rows_missing_pos_,0
+residual_duplicate_keys_after_cleaning,0

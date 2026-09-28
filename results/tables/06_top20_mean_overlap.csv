@@ -1,0 +1,19 @@
+model,task,overlap
+ElasticNet,largest_improvement,0.07500000000000001
+ElasticNet,next_season_level,0.26249999999999996
+LightGBM,largest_improvement,0.125
+LightGBM,next_season_level,0.25
+Linear regression,largest_improvement,0.07500000000000001
+Linear regression,next_season_level,0.2375
+Mixed-effects (BLUP),largest_improvement,0.1125
+Mixed-effects (BLUP),next_season_level,0.325
+Persistence,largest_improvement,0.0
+Persistence,next_season_level,0.3125
+Random Forest,largest_improvement,0.09999999999999999
+Random Forest,next_season_level,0.35
+Ridge,largest_improvement,0.0875
+Ridge,next_season_level,0.25
+Role-age-league mean,largest_improvement,0.15
+Role-age-league mean,next_season_level,0.025
+XGBoost,largest_improvement,0.1625
+XGBoost,next_season_level,0.275

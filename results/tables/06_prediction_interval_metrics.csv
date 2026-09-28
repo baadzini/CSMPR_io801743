@@ -1,0 +1,3 @@
+method,n,coverage,mean_width
+Split-conformal XGBoost 90%,4742,0.897722479966259,64.23963165283203
+LightGBM quantile 90%,4742,0.8641923239139604,65.28361137627529
